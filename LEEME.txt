@@ -1,0 +1,7 @@
+TARJETA DIGITAL — BRAULIO HEREDIA
+1. Abre index.html para revisar el diseño y probar los botones de contacto.
+2. Publica toda la carpeta en una ruta HTTPS estable, por ejemplo en GitHub Pages de tu cuenta, sin alterar los nombres de los archivos.
+3. Una vez publicada, abre la URL pública y pulsa «Mostrar QR». El QR apuntará automáticamente a la URL de la tarjeta.
+4. «Guardar contacto» descarga un archivo VCF. «Compartir» envía o copia la URL publicada.
+5. Para agregar a la pantalla de inicio, usa las opciones del navegador. La instalación depende del navegador/sistema; no es automática.
+NOTA: El QR no está prefijado porque todavía no existe una URL pública elegida. Si cambia la URL pública, cambia el QR.
